@@ -9,7 +9,7 @@
 8. If the point is in Quadrant III, prints "The coordinate is in Quadrant III."
 9. Checks if the point is in Quadrant IV (x > 0 and y < 0).
 10. If the point is in Quadrant IV, prints "The coordinate is in Quadrant IV."
-11. If the point is not in any quadrant (i.e., it is on one of the axes), prints "The coordinate is on the axis."
+11. is not in any quadrant (i.e., it is on one of the axes), prints "coordinate is on the axis."
 """""
 x = int(input("Enter x coordinate: "))
 y = int(input("Enter y coordinate: "))
